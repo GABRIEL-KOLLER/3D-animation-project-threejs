@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://threejs.org/">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://whiteboard-fig-jam.vercel.app/">Deploy Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://animation-threejs.vercel.app/">Deploy Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 
